@@ -1,0 +1,12 @@
+1. https://scikit-learn.org/stable/index.html
+2. https://www.timeseriesclassification.com/index.php
+
+Wybrane fragmenty kodu:
+- https://scikit-learn.org/stable/modules/tree.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html#
+
+
+Biblioteki:
+numpy
+matplotlib
+aeon
