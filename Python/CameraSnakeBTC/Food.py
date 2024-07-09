@@ -51,7 +51,7 @@ class BitcoinsClass:
                 self.score += 1
 
                 self.allowedLength += 50
-                self.randomLocation()
+                self.random_location()
 
             # draw snake
             if (self.points):
